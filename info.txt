@@ -1,3 +1,1 @@
 Git is opensource tool
-Git is SCM tool
-Git is widely used tool in devops
